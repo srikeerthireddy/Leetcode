@@ -13,6 +13,7 @@ Leetcode is solve the questions
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
@@ -50,6 +51,7 @@ Leetcode is solve the questions
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
@@ -74,6 +76,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
