@@ -6,6 +6,7 @@ Leetcode is solve the questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
@@ -17,6 +18,7 @@ Leetcode is solve the questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
@@ -71,6 +73,7 @@ Leetcode is solve the questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
