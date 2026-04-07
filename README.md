@@ -18,6 +18,7 @@ Leetcode is solve the questions
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Leetcode is solve the questions
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 |  |
@@ -87,6 +89,7 @@ Leetcode is solve the questions
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -103,9 +106,23 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
