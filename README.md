@@ -13,6 +13,7 @@ Leetcode is solve the questions
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -53,6 +54,7 @@ Leetcode is solve the questions
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -79,6 +81,7 @@ Leetcode is solve the questions
 | ------- |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
@@ -93,4 +96,12 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
