@@ -95,11 +95,13 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/srikeerthireddy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/srikeerthireddy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Backtracking
 |  |
