@@ -83,6 +83,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/srikeerthireddy/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
@@ -132,4 +134,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
