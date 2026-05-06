@@ -6,6 +6,7 @@ Leetcode is solve the questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -57,6 +58,7 @@ Leetcode is solve the questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
