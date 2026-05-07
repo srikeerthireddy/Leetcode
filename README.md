@@ -55,6 +55,7 @@ Leetcode is solve the questions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -100,6 +101,7 @@ Leetcode is solve the questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -149,5 +151,6 @@ Leetcode is solve the questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
