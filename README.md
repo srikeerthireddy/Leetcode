@@ -101,6 +101,7 @@ Leetcode is solve the questions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/srikeerthireddy/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
@@ -148,6 +149,7 @@ Leetcode is solve the questions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/srikeerthireddy/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
