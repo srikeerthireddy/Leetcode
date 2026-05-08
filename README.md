@@ -21,6 +21,7 @@ Leetcode is solve the questions
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Leetcode is solve the questions
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Monotonic Stack
 |  |
 | ------- |
