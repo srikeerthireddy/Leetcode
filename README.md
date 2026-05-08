@@ -103,6 +103,7 @@ Leetcode is solve the questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
@@ -147,10 +148,15 @@ Leetcode is solve the questions
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
