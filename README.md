@@ -39,6 +39,7 @@ Leetcode is solve the questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srikeerthireddy/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/srikeerthireddy/Leetcode/tree/master/0383-ransom-note) |
@@ -67,6 +68,7 @@ Leetcode is solve the questions
 | ------- |
 | [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
