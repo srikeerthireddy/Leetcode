@@ -47,6 +47,7 @@ Leetcode is solve the questions
 | [0516-longest-palindromic-subsequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/srikeerthireddy/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Leetcode is solve the questions
 | [0383-ransom-note](https://github.com/srikeerthireddy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikeerthireddy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0771-jewels-and-stones](https://github.com/srikeerthireddy/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Monotonic Stack
 |  |
