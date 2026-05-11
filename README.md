@@ -14,6 +14,7 @@ Leetcode is solve the questions
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
@@ -135,6 +136,7 @@ Leetcode is solve the questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Leetcode is solve the questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
