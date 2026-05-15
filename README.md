@@ -172,6 +172,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srikeerthireddy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/srikeerthireddy/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
@@ -194,5 +195,6 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srikeerthireddy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
