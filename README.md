@@ -24,6 +24,7 @@ Leetcode is solve the questions
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ Leetcode is solve the questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/srikeerthireddy/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/srikeerthireddy/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
