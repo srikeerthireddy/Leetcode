@@ -29,6 +29,7 @@ Leetcode is solve the questions
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ Leetcode is solve the questions
 | [0229-majority-element-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Leetcode is solve the questions
 | ------- |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -167,10 +170,12 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -209,4 +214,16 @@ Leetcode is solve the questions
 | [0021-merge-two-sorted-lists](https://github.com/srikeerthireddy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
