@@ -16,6 +16,7 @@ Leetcode is solve the questions
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
@@ -50,6 +51,7 @@ Leetcode is solve the questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srikeerthireddy/Leetcode/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@ Leetcode is solve the questions
 | ------- |
 | [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
@@ -115,6 +118,7 @@ Leetcode is solve the questions
 | ------- |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
