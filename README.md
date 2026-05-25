@@ -20,6 +20,7 @@ Leetcode is solve the questions
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ Leetcode is solve the questions
 | [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
@@ -230,4 +232,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
