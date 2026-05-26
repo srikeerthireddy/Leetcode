@@ -67,6 +67,7 @@ Leetcode is solve the questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0155-min-stack](https://github.com/srikeerthireddy/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Dynamic Programming
@@ -236,4 +237,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/srikeerthireddy/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
