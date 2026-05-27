@@ -31,6 +31,7 @@ Leetcode is solve the questions
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -70,6 +71,7 @@ Leetcode is solve the questions
 | [0155-min-stack](https://github.com/srikeerthireddy/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
