@@ -89,6 +89,7 @@ Leetcode is solve the questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/srikeerthireddy/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/srikeerthireddy/Leetcode/tree/master/0217-contains-duplicate) |
@@ -226,6 +227,7 @@ Leetcode is solve the questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/srikeerthireddy/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/srikeerthireddy/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
@@ -246,6 +248,7 @@ Leetcode is solve the questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/srikeerthireddy/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/srikeerthireddy/Leetcode/tree/master/0155-min-stack) |
 ## Sliding Window
 |  |
@@ -255,4 +258,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikeerthireddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srikeerthireddy/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
