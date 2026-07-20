@@ -16,6 +16,7 @@ Leetcode is solve the questions
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/srikeerthireddy/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srikeerthireddy/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -118,6 +119,7 @@ Leetcode is solve the questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srikeerthireddy/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/srikeerthireddy/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
@@ -141,6 +143,7 @@ Leetcode is solve the questions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srikeerthireddy/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srikeerthireddy/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0189-rotate-array) |
