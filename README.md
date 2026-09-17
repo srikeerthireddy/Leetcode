@@ -38,6 +38,7 @@ Leetcode is solve the questions
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 | [1472-design-browser-history](https://github.com/srikeerthireddy/Leetcode/tree/master/1472-design-browser-history) |
+| [1929-concatenation-of-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ Leetcode is solve the questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/srikeerthireddy/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/srikeerthireddy/Leetcode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
