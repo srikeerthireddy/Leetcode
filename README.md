@@ -38,6 +38,7 @@ Leetcode is solve the questions
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 | [1472-design-browser-history](https://github.com/srikeerthireddy/Leetcode/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
@@ -281,4 +282,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/srikeerthireddy/Leetcode/tree/master/1472-design-browser-history) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
