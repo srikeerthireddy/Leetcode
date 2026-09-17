@@ -37,6 +37,7 @@ Leetcode is solve the questions
 | [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/srikeerthireddy/Leetcode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1929-concatenation-of-array) |
