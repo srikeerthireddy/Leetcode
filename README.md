@@ -35,6 +35,7 @@ Leetcode is solve the questions
 | [0283-move-zeroes](https://github.com/srikeerthireddy/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/srikeerthireddy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -112,6 +113,7 @@ Leetcode is solve the questions
 | [0383-ransom-note](https://github.com/srikeerthireddy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikeerthireddy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/srikeerthireddy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/srikeerthireddy/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/srikeerthireddy/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Monotonic Stack
@@ -291,5 +293,6 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srikeerthireddy/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/srikeerthireddy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
