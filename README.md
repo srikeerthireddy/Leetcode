@@ -22,6 +22,7 @@ Leetcode is solve the questions
 | [0074-search-a-2d-matrix](https://github.com/srikeerthireddy/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/srikeerthireddy/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srikeerthireddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -89,6 +90,7 @@ Leetcode is solve the questions
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/srikeerthireddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
