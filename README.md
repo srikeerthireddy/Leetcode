@@ -7,6 +7,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/srikeerthireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ Leetcode is solve the questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srikeerthireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srikeerthireddy/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -126,6 +128,7 @@ Leetcode is solve the questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srikeerthireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0680-valid-palindrome-ii) |
