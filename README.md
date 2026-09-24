@@ -37,6 +37,7 @@ Leetcode is solve the questions
 | [0347-top-k-frequent-elements](https://github.com/srikeerthireddy/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/srikeerthireddy/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/srikeerthireddy/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/srikeerthireddy/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -281,6 +282,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikeerthireddy/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/srikeerthireddy/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
