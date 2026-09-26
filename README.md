@@ -164,6 +164,7 @@ Leetcode is solve the questions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/srikeerthireddy/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srikeerthireddy/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0070-climbing-stairs) |
