@@ -25,6 +25,7 @@ Leetcode is solve the questions
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srikeerthireddy/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srikeerthireddy/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srikeerthireddy/Leetcode/tree/master/0169-majority-element) |
@@ -247,6 +248,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
