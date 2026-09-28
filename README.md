@@ -75,6 +75,7 @@ Leetcode is solve the questions
 | [0020-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/srikeerthireddy/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/srikeerthireddy/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/srikeerthireddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/srikeerthireddy/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srikeerthireddy/Leetcode/tree/master/0242-valid-anagram) |
