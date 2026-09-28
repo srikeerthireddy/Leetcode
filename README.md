@@ -8,6 +8,7 @@ Leetcode is solve the questions
 | ------- |
 | [0001-two-sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srikeerthireddy/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/srikeerthireddy/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/srikeerthireddy/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -69,6 +70,7 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikeerthireddy/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/srikeerthireddy/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/srikeerthireddy/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -327,4 +329,8 @@ Leetcode is solve the questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/srikeerthireddy/Leetcode/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srikeerthireddy/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
