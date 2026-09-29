@@ -199,6 +199,7 @@ Leetcode is solve the questions
 | [0040-combination-sum-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/srikeerthireddy/Leetcode/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Leetcode is solve the questions
 | [0078-subsets](https://github.com/srikeerthireddy/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/srikeerthireddy/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/srikeerthireddy/Leetcode/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/srikeerthireddy/Leetcode/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |
