@@ -44,6 +44,7 @@ Leetcode is solve the questions
 | [0704-binary-search](https://github.com/srikeerthireddy/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srikeerthireddy/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/srikeerthireddy/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/srikeerthireddy/Leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/srikeerthireddy/Leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikeerthireddy/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/srikeerthireddy/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@ Leetcode is solve the questions
 | [0045-jump-game-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/srikeerthireddy/Leetcode/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
