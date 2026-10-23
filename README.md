@@ -87,6 +87,7 @@ Leetcode is solve the questions
 | [0520-detect-capital](https://github.com/srikeerthireddy/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/srikeerthireddy/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/srikeerthireddy/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
