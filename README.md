@@ -84,6 +84,7 @@ Leetcode is solve the questions
 | [0383-ransom-note](https://github.com/srikeerthireddy/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikeerthireddy/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/srikeerthireddy/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/srikeerthireddy/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/srikeerthireddy/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/srikeerthireddy/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/srikeerthireddy/Leetcode/tree/master/0771-jewels-and-stones) |
